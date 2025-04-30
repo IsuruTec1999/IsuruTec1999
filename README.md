@@ -1,3 +1,6 @@
+<p align="center">
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"  width = 180px  ></picture>
+</p>
 <h1 align="center">Hi 👋, I'm Isuru Dulaj</h1>
 <h3 align="center">A passionate IT Student | Exploring a Boundless World Of Technology</h3>
 
