@@ -7,11 +7,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isurutec1999&label=Profile%20views&color=0e75b6&style=flat" alt="isurutec1999" /> </p>
 
 ---
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Java, MERV Stack, Python**
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **isurudulaj100@gmail.com**
+
+- 👨‍💻 All of my projects are available at [my-portfolio-isuru-dulajs-projects.vercel.app]
 
 - ⚡ Fun fact **Call me as ID Product**
 ---
