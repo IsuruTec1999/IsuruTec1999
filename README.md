@@ -11,7 +11,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Java, MERV Stack, Python**
+- 🌱 I’m currently learning **Java, MERN Stack, Python**
 
 - 💬 Ask me about **Web Development**
 
