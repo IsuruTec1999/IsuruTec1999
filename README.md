@@ -2,8 +2,9 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"  width = 180px  ></picture>
 </p>
 <h1 align="center">Hi 👋, I'm Isuru Dulaj</h1>
-<h3 align="center">A passionate IT Student | Exploring a Boundless World Of Technology</h3>
-
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Passionate+IT+Student;Competitive+Programmer;Always+learning+new+things!!;Exploring+a+Boundless+World+of+Technology"></a>
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isurutec1999&label=Profile%20views&color=0e75b6&style=flat" alt="isurutec1999" /> </p>
 
 ---
