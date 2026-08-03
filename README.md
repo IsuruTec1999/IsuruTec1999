@@ -52,10 +52,13 @@
 
 ---
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=IsuruTec1999&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsuruTec1999&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsuruTec1999&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=IsuruTec1999&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+![Aditya's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=IsuruTec1999&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)  ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsuruTec1999&theme=tokyonight) 
 
+<p align="center"> 
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsuruTec1999&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isurutec1999" alt="isurutec1999" /></a> </p><br>
 
